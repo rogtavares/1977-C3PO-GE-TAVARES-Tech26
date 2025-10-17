@@ -65,9 +65,8 @@
 ---
 
 ## 🧠 Mentoria e Desenvolvimento
-Participar de **mentorias técnicas** 
 - Discussão de desafios reais e revisões de código;
-- Dicas estratégicas de evolução e carreira;
+- Dicas estratégicas de evolução e carreira de Rogerio Tavares;
 - Planejamento para certificações AWS e QA avançado.
 
 ---
