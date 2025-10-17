@@ -13,11 +13,9 @@
 - \*\*Arquitetura e Prática com AWS\*\*# 🤖 1977-C3PO Bootcamp GE TAVARES Tech  
 ### \*\*Java & QA Developer – Do Zero à Prática Completa\*\*
 
-# 1977-C3PO-GE-TAVARES-Tech26
-1977-C3PO– Java Back-end e Qualidade de Software com Spring Boot, JUnit, Mockito, BDD e AWS Lambda.# 1977-C3PO-GE-TAVARES-Tech26
-1977-C3PO– Java Back-end e Qualidade de Software com Spring Boot, JUnit, Mockito, BDD e AWS Lambda.
 
-## 🧩 Estrutura do Bootcamp
+
+## 🧩 Estrutura do projeto RT 
 
 ### 1️⃣ Fundamentos de Java e POO
 - Classes, objetos, encapsulamento, herança e polimorfismo
@@ -30,7 +28,7 @@
 - Controle de versão com **Git/GitHub**
 
 ### 3️⃣ Qualidade e Testes Automatizados
-- Testes unitários com **JUnit 5**
+- Testes unitários com **a definir**
 - Simulação de dependências com **Mockito**
 - Testes comportamentais com **BDD (Cucumber)**
 
@@ -42,13 +40,13 @@
 
 ---
 
-## 💼 Projetos de Portfólio
+## 💼 Projetos de Portfólio RT 
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| 🚀 Abstraindo um Bootcamp em Java | Sistema modular para consolidar POO e boas práticas. | Java, OOP |
-| 🧪 O Dia a Dia de um QA | Execução de testes manuais e automatizados em sistemas reais. | JUnit, Selenium, BDD |
-| 🧰 Testes Unitários em API REST | Testes com JUnit, Mockito e Cucumber em uma API RESTful. | Spring Boot, JUnit, Mockito, Cucumber |
+| Projeto                                     | Descrição | Tecnologias |
+|---------------------------------------------|------------|-------------|
+| 🚀 Abstraindo um TREINO FORTE em Java       | Sistema modular para consolidar POO e boas práticas. | Java, OOP |
+| 🧪 O Dia a Dia de um QA                     | Execução de testes manuais e automatizados em sistemas reais. | JUnit, Selenium, BDD |
+| 🧰 Testes Unitários em API REST             | Testes com JUnit, Mockito e Cucumber em uma API RESTful. | Spring Boot, JUnit, Mockito, Cucumber |
 | ☁️ Desafio AWS Lambda – E-commerce Checkout | Diagnóstico e correção de falhas assíncronas em arquitetura serverless. | AWS Lambda, API Gateway, DLQ, CloudWatch |
 
 ---
@@ -67,7 +65,7 @@
 ---
 
 ## 🧠 Mentoria e Desenvolvimento
-Participar de **mentorias técnicas** com especialistas:
+Participar de **mentorias técnicas** 
 - Discussão de desafios reais e revisões de código;
 - Dicas estratégicas de evolução e carreira;
 - Planejamento para certificações AWS e QA avançado.
@@ -84,4 +82,11 @@ Participar de **mentorias técnicas** com especialistas:
 | 💾 Banco de Dados | MySQL, PostgreSQL, DynamoDB |
 | 🔧 DevOps | Git, GitHub Actions, Docker |
 | 🧠 IDE | IntelliJ IDEA |
+
+
+## 👨‍💻 Autor
+**Rogério Tavares**  
+🧠 Engenheiro de Software itau | Java • QA • AWS • Salesforce • Datadog
+🌐 [GitHub - @rogtavares](https://github.com/rogtavares)
+📫 [LinkedIn - Rogério Tavares](https://www.linkedin.com/in/rogtavares/) 
 
